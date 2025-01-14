@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yanliang Li's Webpage
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yanliang Li
+Ph.D. student in Computer Science
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:leonli@uoregon.edu">Email</a>
+| <a href="https://orcid.org/0009-0005-3263-0087">My ORCID Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Ph.D. student in Department of Computer and Information Science at University of Oregon
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Computer Systems
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Lossy Compression, High Performance Computing
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2025 - Dec 2029`
+__Univesity of Oregon, Eugene OR__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Aug 2023 - Dec 2024`
+__Univesity of Alabama at Birmingham, Birmingham AL__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Sep 2019 - Jun 2023`
+__Chongqing University of Posts and Telecommunications, Chongqing China__
 
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2023`
+*GSG Professional Development and Travel Award*, University of Alabama at Birmingham.
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?user=R_SgapkAAAAJ&hl=en)
+
+### Conferences
+
+`2025`
+Jieyang Chen, Qian Gong, Xin Liang, Qing Liu, Lipeng Wan, Yanliang Li, Norbert Podhorszki, Scott Klasky  
+HPDR: High-Performance Portable Scientific Data Reduction Framework  
+The 39th IEEE International Parallel & Distributed Processing Symposium(IPDPS'25),
+Milano, Italy. Jun. 2025
+
+`2024`
+Yanliang Li, Jieyang Chen  
+Accelerating In-transit Isosurface Generation With Topology Preserving Compression  
+2024 IEEE 20th International Conference on e-Science (e-Science‘24), 
+Osaka, Japan
+
+
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Jan 2025 - now`
+__Graduate Teaching Assistant__, University of Oregon
 
 
+`Aug 2023 - Dec 2024`
+__Graduate Research Assistant__, University of Alabama at Birmingham
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+### Footer
+
+Last updated: Jan 2025
 
 
