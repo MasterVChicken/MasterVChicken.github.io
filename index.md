@@ -17,12 +17,12 @@ Ph.D. student in Department of Computer and Information Science at University of
 
 ### Specialized in
 
-Computer Systems
+High Performance Computing, Computer Systems
 
 
 ### Research interests
 
-Lossy Compression, High Performance Computing
+Lossy Compression, Big Data Management, High Performance Computing
 
 
 ## Education
@@ -53,16 +53,16 @@ A list is also available [online](https://scholar.google.com/citations?user=R_Sg
 
 ### Conferences
 
-`2025`
+`IPDPS'25`
 Jieyang Chen, Qian Gong, Xin Liang, Qing Liu, Lipeng Wan, Yanliang Li, Norbert Podhorszki, Scott Klasky  
 HPDR: High-Performance Portable Scientific Data Reduction Framework  
-The 39th IEEE International Parallel & Distributed Processing Symposium(IPDPS'25),
+The 39th IEEE International Parallel & Distributed Processing Symposium,
 Milano, Italy. Jun. 2025
 
-`2024`
+`e-Science‘24`
 Yanliang Li, Jieyang Chen  
 Accelerating In-transit Isosurface Generation With Topology Preserving Compression  
-2024 IEEE 20th International Conference on e-Science (e-Science‘24), 
+2024 IEEE 20th International Conference on e-Science, 
 Osaka, Japan
 
 
