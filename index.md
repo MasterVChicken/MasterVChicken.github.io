@@ -72,6 +72,13 @@ Osaka, Japan
 etc. etc. etc.
 
 
+## Services
+
+Reviewer: 
+- SoftwareX'24
+- SoftwareX'25
+
+
 
 ## Occupation
 
@@ -85,6 +92,6 @@ __Graduate Research Assistant__, University of Alabama at Birmingham
 
 ### Footer
 
-Last updated: Jan 2025
+Last updated: Feb 2025
 
 
