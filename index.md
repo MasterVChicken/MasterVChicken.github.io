@@ -27,16 +27,23 @@ Lossy Compression, Big Data Management, High Performance Computing
 
 ## Education
 
-`Jan 2025 - Dec 2029`
-__Univesity of Oregon, Eugene OR__
+`Ph. D., Major: Computer Science`
+__Univesity of Oregon__
 
-`Aug 2023 - Dec 2024`
+`Jan 2025 - Now`
+Eugene, OR
+
+`Ph. D., Major: Computer Science`
 __Univesity of Alabama at Birmingham, Birmingham AL__
 
+`Aug 2023 - Dec 2024`
+Birmingham, AL
 
-`Sep 2019 - Jun 2023`
+`Bachelor of Engineering, Major: Computer Science and Technology`
 __Chongqing University of Posts and Telecommunications, Chongqing China__
 
+`Sep 2019 - Jun 2023`
+Nan'an, Chongqing
 
 
 
@@ -74,9 +81,9 @@ etc. etc. etc.
 
 ## Services
 
-Reviewer: 
-- SoftwareX'24
-- SoftwareX'25
+`Reviewer` 
+SoftwareX'24
+SoftwareX'25
 
 
 
