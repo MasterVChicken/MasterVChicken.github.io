@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Oregon</a>.  <a href="mailto:leonli@uoregon.edu">leonli@uoregon.edu</a>
+subtitle: <a href='#'>University of Oregon</a>. 
 
 profile:
   align: right
