@@ -7,6 +7,8 @@ main:
     pdf: https://arxiv.org/abs/2505.00227
     page: https://arxiv.org/abs/2505.00227
     bibtex: https://arxiv.org/abs/2505.00227
+    notes:
+    image: ./assets/img/HP-MDR.png
     
   - title: "HPDR: High-Performance Portable Scientific Data Reduction Framework"
     authors: Jieyang Chen, Qian Gong, <strong>Yanliang Li</strong>, Xin Liang, Lipeng Wan, Qing Liu, Norbert Podhorszki, Scott Klasky
@@ -15,6 +17,8 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078565
     page: https://ieeexplore.ieee.org/document/11078565
     bibtex: https://ieeexplore.ieee.org/document/11078565
+    notes:
+    image: ./assets/img/HPDR.png
 
   - title: "Accelerating In-transit Isosurface Generation With Topology Preserving Compression"
     authors: <strong>Yanliang Li</strong>, Jieyang Chen
@@ -23,3 +27,5 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10678711
     page: https://ieeexplore.ieee.org/document/10678711
     bibtex: https://ieeexplore.ieee.org/document/10678711
+    notes:
+    image: ./assets/img/topology.png
